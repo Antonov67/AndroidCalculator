@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCalculator</string>
+    <string name="help">Краткая справка по работе с калькулятором: \nНажимайте клавиши с цифрами и кнопки операций, \n
+        для подсчета процента, введите строку как в примере : \n
+        5%100=
+    </string>
+</resources>
